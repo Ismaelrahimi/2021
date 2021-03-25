@@ -1,0 +1,16 @@
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.exe
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.deps.json
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.runtimeconfig.json
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.runtimeconfig.dev.json
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.dll
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\ref\group1-prac.dll
+C:\Users\102576927\group1-prac\bin\Debug\net5.0\group1-prac.pdb
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.csprojAssemblyReference.cache
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.AssemblyInfoInputs.cache
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.AssemblyInfo.cs
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.csproj.CoreCompileInputs.cache
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.dll
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\ref\group1-prac.dll
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.pdb
+C:\Users\102576927\group1-prac\obj\Debug\net5.0\group1-prac.genruntimeconfig.cache
